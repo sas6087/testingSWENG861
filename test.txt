@@ -1,0 +1,9 @@
+$ mkdir testingSWENG861
+$ cd testingSWENG861
+$ git init
+$ ls
+$ ls –a
+
+Create a text file in notepad – add some text
+Store it in your testingSWENG861 directory
+$ls  - to make sure it is there.
